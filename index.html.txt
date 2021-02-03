@@ -1,0 +1,8 @@
+<html>
+  <head>
+  <h1>Wizard/</h1>
+  </head>
+  <body>
+<li><a href="plugin.program.hackerteamwizard1.8.0.zip">HackerTeam Wizard</a></li>
+</ul>
+</body></html>
